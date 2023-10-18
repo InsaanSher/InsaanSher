@@ -8,7 +8,7 @@ SLIIT enthusiast with deep expertise in the MERN stack and Python, be it program
 
 ## 🚀 Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsaanSher&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsaanSher&hide_progress=true)
 
 ## 📦 Top Repositories
 
