@@ -12,17 +12,7 @@ SLIIT enthusiast with deep expertise in the MERN stack and Python, be it program
 
 ## 📦 Top Repositories
 
-- [GCP Serverless Orchestrator](https://github.com/InsaanSher/GCP-Serverless-Orchestrator)
-- [AWS Image Service](https://github.com/InsaanSher/AWS-Image-Service)
-- [Pull Request Reports](https://github.com/InsaanSher/Pull-Request-Reports)
-- [Copy DynamoDB Table](https://github.com/InsaanSher/Copy-DynamoDB-Table)
-- [Qt Auto Translator](https://github.com/InsaanSher/Qt-Auto-Translator)
-- [A-Star Algorithm](https://github.com/InsaanSher/A-Star-Algorithm)
-
-## 📝 My Articles
-
-- [Portfolio](#)
-- [Personal Blog](#)
+- [Fleet Management System](https://github.com/InsaanSher/FleetManagementSystem)
 
 ## 🌐 Let's Connect!
 
@@ -30,7 +20,7 @@ SLIIT enthusiast with deep expertise in the MERN stack and Python, be it program
 - [Gaming](#)
 - [Drone](#)
 - [LinkedIn](https://www.linkedin.com/in/insaansher/)
-- [Stack Overflow](https://stackoverflow.com/users/your-id)
+- [Stack Overflow](https://stackoverflow.com/users/22765142/manuja-edirisinghe)
 - [GitHub](https://github.com/InsaanSher)
 - [Instagram](https://instagram.com/InsaanSher)
 - [Twitter](https://twitter.com/InsaanSher)
@@ -38,12 +28,8 @@ SLIIT enthusiast with deep expertise in the MERN stack and Python, be it program
 
 ## 🛠 Hire Me
 
-- [Fiverr](https://www.fiverr.com/your-profile)
+- [Fiverr](https://www.fiverr.com/InsaanSher)
 
 ## 🎓 Learn From Me
 
-- [Udemy](https://www.udemy.com/user/your-id/)
-
-## ☕ Support Me
-
-- [Buy Me A Coffee](https://www.buymeacoffee.com/InsaanSher)
+- [Udemy](https://www.udemy.com/user/InsaanSher/)
