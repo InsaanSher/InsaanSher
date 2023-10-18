@@ -16,9 +16,6 @@ SLIIT enthusiast with deep expertise in the MERN stack and Python, be it program
 
 ## 🌐 Let's Connect!
 
-- [Tech Reviews](#)
-- [Gaming](#)
-- [Drone](#)
 - [LinkedIn](https://www.linkedin.com/in/insaansher/)
 - [Stack Overflow](https://stackoverflow.com/users/22765142/manuja-edirisinghe)
 - [GitHub](https://github.com/InsaanSher)
@@ -29,6 +26,7 @@ SLIIT enthusiast with deep expertise in the MERN stack and Python, be it program
 ## 🛠 Hire Me
 
 - [Fiverr](https://www.fiverr.com/InsaanSher)
+- [Upwork](https://www.upwork.com/InsaanSher)
 
 ## 🎓 Learn From Me
 
