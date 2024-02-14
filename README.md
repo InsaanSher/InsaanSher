@@ -26,7 +26,7 @@ SLIIT enthusiast with deep expertise in the MERN stack and Python, be it program
 ## 🛠 Hire Me
 
 - [Fiverr](https://www.fiverr.com/InsaanSher)
-- [Upwork](https://www.upwork.com/InsaanSher)
+- [Upwork](https://www.upwork.com/freelancers/~0169baffe4666ddffe)
 
 ## 🎓 Learn From Me
 
